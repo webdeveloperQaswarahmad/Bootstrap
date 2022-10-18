@@ -1,0 +1,12 @@
+{
+    "services": [
+      {
+        "id": 1,
+        "pic":"../assets/download2.jpg",
+        "title": " karahi",
+        "description": "Full / Half",
+        "price": "220"
+      }
+
+    ]
+  }

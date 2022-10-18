@@ -1,0 +1,99 @@
+{
+  "restaurant": [
+    {
+      "id": 1,
+      "name": "Pizza Hut",
+      "address": "BWP",
+      "Rating": "4.5",
+      "email": "pizzahut@gmail.com",
+      "imgUrl": "/assets/download2.jpg"
+    },
+    {
+      "id": 4,
+      "name": "BBQ nation",
+      "address": "Lahore",
+      "Rating": "4.9",
+      "email": "bbq@gmail.com"
+    },
+    {
+      "id": 5,
+      "name": "Data GareebNawaz",
+      "address": "Bahawalpur",
+      "Rating": "4.9",
+      "email": "data@gmail.com"
+    },
+    {
+      "id": 6,
+      "name": "Karachi Tasty",
+      "address": "Bahawalpur",
+      "Rating": "4.8",
+      "email": "tasty@gmail.com"
+    },
+    {
+      "name": "Yami",
+      "email": "a@gmail.com",
+      "rating": "3",
+      "address": "Ldjak",
+      "id": 9
+    },
+    {
+      "name": "Karachi Restaurant",
+      "email": "karachi@gmail.com",
+      "rating": "4",
+      "address": "Karcachi Mor",
+      "id": 10
+    }
+  ],
+  "services": [
+    {
+      "title": "mango",
+      "price": "100",
+      "id": 2
+    },
+    {
+      "title": "mango",
+      "price": "100",
+      "id": 3
+    },
+    {
+      "title": "mango",
+      "price": "100",
+      "id": 4
+    },
+    {
+      "title": "mango",
+      "price": "100",
+      "id": 5
+    },
+    {
+      "title": "mango",
+      "price": "100",
+      "id": 6
+    },
+    {
+      "title": "mango",
+      "price": "100",
+      "id": 7
+    },
+    {
+      "title": "mango",
+      "price": "100",
+      "id": 8
+    },
+    {
+      "title": "kitchen",
+      "price": "200",
+      "id": 9
+    },
+    {
+      "title": "Pepsi",
+      "price": "1.5/130rs",
+      "id": 10
+    },
+    {
+      "title": "Dall Mash",
+      "price": "100/plate",
+      "id": 11
+    }
+  ]
+}
